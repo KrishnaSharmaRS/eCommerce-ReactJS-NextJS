@@ -3,7 +3,7 @@ import type { AppProps } from "next/app";
 import { wrapper } from "../redux/store";
 import PageBodyContainer from "../components/PageBodyContainer";
 
-import "../styles/style.css";
+import "../styles/app.styles.css";
 
 function App({ Component, pageProps }: AppProps) {
   return (
