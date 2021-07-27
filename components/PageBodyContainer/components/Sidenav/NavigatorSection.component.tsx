@@ -25,7 +25,7 @@ export default function NavigatorSection() {
             <ListItemOne title="Shop" link="/products" />
             <ListItemOne title="Sign in" link="/sign-in" />
             <ListItemOne title="Sign up" link="/sign-up" />
-            <ListItemOne title="My Account" link="/my-account" />
+            <ListItemOne title="My Account" link="/account" />
             <ListItemOne title="My Cart" link="/cart" />
           </ul>
         </div>

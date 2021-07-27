@@ -12,7 +12,7 @@ export enum EUserTitle {
 const INITIAL_STATE: IUserState = {
     id: "",
     title: EUserTitle.mr,
-    firstName: "Krishna",
+    firstName: "",
     lastName: "",
     email: "",
     authenticated: false,

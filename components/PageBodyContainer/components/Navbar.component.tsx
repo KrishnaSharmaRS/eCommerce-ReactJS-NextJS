@@ -115,7 +115,7 @@ const Navbar = ({ scrolled, showSidenav, back = false }: IProps) => {
                 )}
               </div>
             )}
-            <LinkCustom className="_2Kllo" to="/my-account">
+            <LinkCustom className="_2Kllo" to="/account">
               <svg width={23} height={26} viewBox="0 0 23 26" xmlns="http://www.w3.org/2000/svg" className="-n_iK">
                 <g transform="translate(1.043 1)" stroke="black" fill="none" fillRule="evenodd">
                   <path d="M21.02 18.3c.136-.707-2.657-6.822-10.423-6.822-7.765 0-10.624 5.712-10.565 6.82-.017 3.53-.017 5.294 0 5.294H21.02V18.3z" />

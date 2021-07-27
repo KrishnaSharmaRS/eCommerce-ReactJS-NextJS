@@ -1,3 +1,7 @@
+.pointer {
+    cursor: pointer;
+}
+
 ._2jVzw {
     width: 100%;
     max-width: 100%;
@@ -41476,8 +41480,8 @@ input[type="number"]::-webkit-inner-spin-button {
 }
 @media screen and (max-width: 1023px) and (min-width: 768px) {
     ._2b45P {
-        margin-top: 42px;
-        margin-bottom: 37px;
+        margin-top: 22px;
+        margin-bottom: 17px;
         font-weight: 300;
         font-size: 30px;
         line-height: 45px;
@@ -41517,7 +41521,7 @@ input[type="number"]::-webkit-inner-spin-button {
 }
 @media screen and (max-width: 1399px) and (min-width: 1280px) {
     ._2b45P {
-        margin: 27px 0 83px;
+        margin: 17px 0 53px;
         font-weight: 300;
         font-size: 40px;
         line-height: 42px;
@@ -41540,7 +41544,7 @@ input[type="number"]::-webkit-inner-spin-button {
 }
 @media screen and (max-width: 1919px) and (min-width: 1400px) {
     ._2b45P {
-        margin: 53px 0;
+        margin: 23px 0;
         font-weight: 300;
         font-size: 45px;
         line-height: 52px;
@@ -41558,7 +41562,7 @@ input[type="number"]::-webkit-inner-spin-button {
 }
 @media screen and (min-width: 1920px) {
     ._2b45P {
-        margin: 100px 0 58px;
+        margin: 50px 0 28px;
         font-weight: 300;
         font-size: 60px;
         line-height: 95px;
@@ -49389,8 +49393,8 @@ input[type="number"]::-webkit-inner-spin-button {
 ._20r9j {
     z-index: 4;
     position: relative;
-    padding-top: 194px;
-    padding-bottom: 147px;
+    padding-top: 74px;
+    padding-bottom: 67px;
     background-color: #fff;
 }
 ._1zNex {
@@ -49438,8 +49442,8 @@ input[type="number"]::-webkit-inner-spin-button {
 }
 @media screen and (max-width: 1023px) and (min-width: 768px) {
     ._20r9j {
-        padding-top: 127px;
-        padding-bottom: 70px;
+        padding-top: 67px;
+        padding-bottom: 50px;
     }
     ._1zNex {
         padding-bottom: 22px;
@@ -49456,8 +49460,8 @@ input[type="number"]::-webkit-inner-spin-button {
 }
 @media screen and (max-width: 1279px) and (min-width: 1024px) {
     ._20r9j {
-        padding-top: 183px;
-        padding-bottom: 114px;
+        padding-top: 63px;
+        padding-bottom: 54px;
     }
     ._1zNex {
         padding-bottom: 29px;
@@ -49472,8 +49476,8 @@ input[type="number"]::-webkit-inner-spin-button {
 }
 @media screen and (max-width: 1399px) and (min-width: 1280px) {
     ._20r9j {
-        padding-top: 160px;
-        padding-bottom: 94px;
+        padding-top: 60px;
+        padding-bottom: 54px;
     }
     ._1zNex {
         padding-bottom: 17px;
@@ -49485,8 +49489,8 @@ input[type="number"]::-webkit-inner-spin-button {
 }
 @media screen and (max-width: 1919px) and (min-width: 1400px) {
     ._20r9j {
-        padding-top: 260px;
-        padding-bottom: 136px;
+        padding-top: 80px;
+        padding-bottom: 76px;
     }
     ._1zNex {
         padding-bottom: 20px;
@@ -49498,8 +49502,8 @@ input[type="number"]::-webkit-inner-spin-button {
 }
 @media screen and (min-width: 1920px) {
     ._20r9j {
-        padding-top: 304px;
-        padding-bottom: 177px;
+        padding-top: 94px;
+        padding-bottom: 77px;
     }
     ._1zNex {
         padding-bottom: 28px;
