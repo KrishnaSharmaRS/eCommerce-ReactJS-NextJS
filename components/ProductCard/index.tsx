@@ -3,23 +3,23 @@ import LinkCustom from "../LinkCustom";
 
 interface IProps {
   link: string;
-  imageUrl: string;
+  images: string[];
   title: string;
   price: number;
 }
 
-const ProductCard = ({ link, imageUrl, title, price }: IProps) => (
+const ProductCard = ({ link, images, title, price }: IProps) => (
   <article className="usZlM">
     <figure className="_12_z9">
       <LinkCustom className="_2PlVr" to={link}>
         <div
           className="_12cr2 mvfiF _1ZoHX wBHJF"
           style={{
-            backgroundImage: `url(${imageUrl})`,
+            backgroundImage: `url(${images[0]})`,
           }}
         >
           <div className="iUm2H" />
-          <Image className="_3YlSt" src={imageUrl} alt={title} height={"auto"} width={"auto"} />
+          <Image className="_3YlSt" src={images[0]} alt={title} layout="fill" />
         </div>
       </LinkCustom>
       <div className="_1MW85">
@@ -27,11 +27,11 @@ const ProductCard = ({ link, imageUrl, title, price }: IProps) => (
           <div
             className="_12cr2 _1TbEK _31IMi wBHJF"
             style={{
-              backgroundImage: `url(${imageUrl})`,
+              backgroundImage: `url(${images[0]})`,
             }}
           >
             <div className="iUm2H" />
-            <Image className="_3YlSt" src={imageUrl} draggable="true" alt={title} height={"auto"} width={"auto"} />
+            <Image className="_3YlSt" src={images[0]} draggable="true" alt={title} layout="fill" />
           </div>
         </LinkCustom>
       </div>
